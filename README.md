@@ -1,7 +1,7 @@
 # react redux sample
 A simple react app using redux and immutable.js
 
-The app is being hosted on Azure [reacr redux sample](http://mobile-apps-client).
+The app is being hosted on Azure [react redux sample](http://webappsampleredux.azurewebsites.net/).
 
 ## code structure
 The code is structured in the following manner...
