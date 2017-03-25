@@ -1,0 +1,11 @@
+.DS_Store
+*.log
+node_modules
+.vs
+*.user
+obj
+packages
+WebApp/packages
+WebApp/node_modules
+WebApp/bin
+WebApp/default.js
