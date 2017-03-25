@@ -37,7 +37,7 @@ webpack -d --progress
 # test the code
 npm test
 # host code in local node server
-npm host
+node ./server.js
 ```
 
 The server will be available at [http://localhost:8080](http://localhost:8080/).
