@@ -1,7 +1,7 @@
 # react redux sample
 A simple react app using redux and immutable.js
 
-The following is being hosted on Azure [reacr redux sample](http://mobile-apps-client).
+The app is being hosted on Azure [reacr redux sample](http://mobile-apps-client).
 
 ```powershell
 # download a copy of the repo
@@ -17,7 +17,26 @@ npm test
 npm host
 ```
 
-The server will be available at [localhost:8080](http://localhost:8080).
+The server will be available at [http://localhost:8080](http://localhost:8080/).
+
+## code structure
+The code is structured in the following manner...
+```powershell
+# default.html & default.js & default.css are all that is needed to run the site, default.js is a generated file
+/WebApp
+ - default.html
+ - default.css
+ - default.js
+# default.js is generated from components, controllers, state
+ /controllers
+	...
+ /components
+	...
+/state
+	...
+/state/reducers
+	...
+ ```
 
 Cheers
  
