@@ -6,6 +6,10 @@ node_modules
 obj
 packages
 WebApp/packages
+WebApp/Properties
 WebApp/node_modules
 WebApp/bin
 WebApp/default.js
+WebApp/default.js.map
+WebApp/*.config
+WebApp/*.csproj
