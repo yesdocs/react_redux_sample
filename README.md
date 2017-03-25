@@ -29,7 +29,7 @@ The code is structured in the following manner...
 ```powershell
 # download a copy of the repo
 git clone https://github.com/yesdocs/react_redux_sample.git
-cd WebApp
+cd react_redux_sample/WebApp
 # Install needed libs
 npm install
 # build the code
