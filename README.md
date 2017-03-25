@@ -1,7 +1,15 @@
 # react redux sample
 A simple react app using redux and immutable.js
 
-The app is being hosted on Azure [react redux sample](http://webappsampleredux.azurewebsites.net/).
+The app is being hosted on Azure DEMO: [react redux sample](http://webappsampleredux.azurewebsites.net/).
+
+## Features
+* [react](https://github.com/facebook/react)
+* [redux](https://github.com/rackt/redux)
+* [webpack](https://github.com/webpack/webpack)
+* [babel](https://github.com/babel/babel)
+* [mocha](https://github.com/mocha)
+* [chai](https://github.com/chai)
 
 ## Application Structure
 
@@ -41,6 +49,8 @@ npm test
 # host code in local node server
 node ./server.js
 ```
+
+## Test files
 
 The localaly hosted server will be available at [http://localhost:8080/](http://localhost:8080/).
 
