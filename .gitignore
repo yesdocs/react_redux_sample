@@ -3,6 +3,7 @@
 node_modules
 .vs
 *.user
+*.sln
 obj
 packages
 WebApp/packages
