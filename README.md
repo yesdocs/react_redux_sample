@@ -32,6 +32,8 @@ The application structure presented in this boilerplate is **fractal**, where fu
 	webappstate.js			# holds app state
  - /state/reducers
 	userreducer.js			# the user reducer and actions
+ - /lib
+	default_test.js			# included in each test to import chai and setup global variables
  ```
 
  ## How to build and run
@@ -51,6 +53,11 @@ node ./server.js
 ```
 
 ## Test files
+test files are files that end with '_test.js' and are run using the command:
+```powershell
+npm test
+```
+
 
 The localaly hosted server will be available at [http://localhost:8080/](http://localhost:8080/).
 
